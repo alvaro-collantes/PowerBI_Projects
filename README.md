@@ -89,10 +89,9 @@ This analysis uses the **Sample Superstore Dataset** from Kaggle:
 │   └── 📄 SampleSuperstore.csv
 ├── 📁 dashboard/
 │   └── 📄 Sample_Superstore_Dashboard.pbix
+│   └── 📄 dashboard_preview.pdf
 ├── 📁 documentation/
 │   └── 📄 Detailed_Analysis_Report.md
-├── 📁 assets/
-│   └── 📄 dashboard_preview.pdf
 ```
 
 ## Analysis Methodology
